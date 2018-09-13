@@ -1,0 +1,5 @@
+When running the notebooks for data preparation, please note that
+1. The raw data folder(s) should be placed at the same category with the pyNotebook.
+2. Reset the parameter of the ‘dataSetLoc’
+3. Specify a output location for the cleaned data. 
+4. The incart dataset could be too large for whole-loading. It is suggested that preparing the incart dataset gradually. 
